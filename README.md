@@ -1,2 +1,6 @@
 # hello-world
 getting started
+well this is good so far, a newer advanced version 
+of text editords i have used in the past..... 
+panvalet,
+and HP edit....
